@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# หน้าแรก
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## วิธีอ่านคู่มือ
 
-## Commands
+!!! Danger "อย่า/ห้าม"
+    ไม่ต้องพิมพ์พวกตัว &lt;   &gt; [   ] \| ที่อยู่ในตัวอย่าง
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+!!! note "ตัวอย่างวิธีทำตามคู่มือ"
+    เช่น หากคู่มือบอก `/play music:<ลิงก์>`
+    ใช้งาน `/play music:https://youtu.be/pqBp2uIrKHI`
 
-## Project layout
+## เริ่มต้นใช้งานบอทหลายบาทแบบง่ายและเร็ว
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* ทำการชวนบอทหลายบาทเข้าดิส [ลิงก์ชวนบอท](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+* เข้าห้องเสียง
+* `/play` - คำสั่งเล่นเพลง
+* `/skip` - คำสั่งข้ามเพลง
+* `/leave` - เลิกใช้งานบอท
+
+## ความรู้เล็กน้อย
+
+!!! tip "หลายบาทเล่นจากที่ไหนได้บ้าง ?"
+    Youtube, Spotify, Soundcloud และ Twitch
+
+!!! fail "เกี่ยวกับ Youtube"
+    หลายบาทไม่สามารถโหลดคลิปที่จำกัดประเทศ, เฉพาะสมาชิกช่อง, ส่วนตัว
+
+!!! fail "เกี่ยวกับ Spotify"
+    หลายบาทไม่สามารถโหลด Spotify ได้เกิน 100 เพลง แม้หน้า Playlist จะมีมากกว่า 100 เพลง

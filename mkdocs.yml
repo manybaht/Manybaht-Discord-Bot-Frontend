@@ -7,9 +7,8 @@ theme:
   language: th
   logo: assets/avatar.webp
   favicon: assets/avatar.webp
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
@@ -43,6 +42,10 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:manybahtpage@gmail.com
       name: Email@manybahtpage
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 copyright: Manybaht Music Discord Bot | Manybahtpage
 repo_url: https://github.com/manybaht/Manybaht-Discord-Bot-Doc
 repo_name: manybaht/Manybaht-Discord-Bot-Doc
