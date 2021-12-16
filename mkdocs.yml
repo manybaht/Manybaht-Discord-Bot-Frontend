@@ -1,0 +1,48 @@
+site_name: คู่มือบอทหลายบาท
+theme:
+  name: material
+  font:
+    text: Sarabun
+    code: Roboto Mono
+  language: th
+  logo: assets/avatar.webp
+  favicon: assets/avatar.webp
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: สลับไปโหมดกลางคืน
+      primary: deep orange
+      accent: amber
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: สลับไปโหมดตาบอด
+      primary: deep orange
+      accent: amber
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/manybahtpage
+      name: Facebook@manybahtpage
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/manybahtpage
+      name: Twitter@manybahtpage
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/manybahtpage
+      name: Instagram@manybahtpage
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/Q3B76tWvnJ
+      name: Discord@manybahtpage
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:manybahtpage@gmail.com
+      name: Email@manybahtpage
+copyright: Manybaht Music Discord Bot | Manybahtpage
+repo_url: https://github.com/manybaht/Manybaht-Discord-Bot-Doc
+repo_name: manybaht/Manybaht-Discord-Bot-Doc
