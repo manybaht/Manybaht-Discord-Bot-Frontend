@@ -1,6 +1,8 @@
 site_name: คู่มือบอทหลายบาท
 theme:
   name: material
+  features:
+    - navigation.instant
   font:
     text: Sarabun
     code: Roboto Mono
