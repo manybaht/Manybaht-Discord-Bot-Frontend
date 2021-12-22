@@ -15,6 +15,12 @@ theme:
       scheme: slate
       primary: deep orange
       accent: amber
+nav:
+  - 'index.md'
+  - 'music.md'
+  - 'qa.md'
+  - 'howtofix.md'
+  - 'สถานะบอท': 'https://manybaht.statuspage.io/'
 extra:
   generator: false
   social:

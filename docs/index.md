@@ -9,6 +9,14 @@
 * `/skip` - คำสั่งข้ามเพลง
 * `/leave` - เลิกใช้งานบอท
 
+## ลิงก์ชวนบอทหลายบาททั้งหมด
+
+* [Manybaht (ตัวหลัก)](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+* [Manybaht 2](https://discord.com/oauth2/authorize?client_id=910250814814187561&permissions=2184301960&scope=bot%20applications.commands)
+* [Manybaht 3](https://discord.com/oauth2/authorize?client_id=910251655218479164&permissions=2184301960&scope=bot%20applications.commands)
+* [Manybaht 4](https://discord.com/oauth2/authorize?client_id=910447864805736459&permissions=2184301960&scope=bot%20applications.commands)
+* [Manybaht 5](https://discord.com/oauth2/authorize?client_id=910447914118172704&permissions=2184301960&scope=bot%20applications.commands)
+
 ## วิธีอ่านคู่มือ
 
 !!! fail "อย่า/ห้าม"
