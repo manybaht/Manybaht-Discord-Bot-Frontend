@@ -7,8 +7,8 @@ theme:
     text: Kanit
     code: Roboto Mono
   language: th
-  logo: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@latest/storages/images/avatar.webp
-  favicon: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@latest/storages/images/avatar.webp
+  logo: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/avatar.webp
+  favicon: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/avatar.webp
   icon:
     repo: fontawesome/brands/github
   palette:
