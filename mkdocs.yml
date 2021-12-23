@@ -4,7 +4,7 @@ theme:
   features:
     - navigation.instant
   font:
-    text: Sarabun
+    text: Kanit
     code: Roboto Mono
   language: th
   logo: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/avatar.webp
