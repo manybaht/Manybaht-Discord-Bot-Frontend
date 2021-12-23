@@ -7,8 +7,8 @@ theme:
     text: Sarabun
     code: Roboto Mono
   language: th
-  logo: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@b89c90e/storages/images/avatar.webp
-  favicon: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@b89c90e/storages/images/avatar.webp
+  logo: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/avatar.webp
+  favicon: https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/avatar.webp
   icon:
     repo: fontawesome/brands/github
   palette:
