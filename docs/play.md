@@ -1,9 +1,9 @@
 # เริ่มเล่นเพลงครั้งแรกจากบอทหลายบาท
 
-## [ 1 ] ทำการเข้าห้องเสียง
-
 !!! warning "บอทต้องเห็นห้องเสียง !"
     ถ้าบอทไม่มีอำนาจเห็นห้องเสียง/เข้า/พูด/ปิดหูฟังตนเอง บอทจะไม่เข้า
+
+## [ 1 ] ทำการเข้าห้องเสียง
 
 <figure markdown> 
     ![Image title](https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/botdoc/start5.gif){ loading=lazy }
