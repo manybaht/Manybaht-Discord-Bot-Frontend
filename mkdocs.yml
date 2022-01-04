@@ -17,6 +17,8 @@ theme:
       accent: amber
 nav:
   - 'index.md'
+  - 'start.md'
+  - 'play.md'
   - 'music.md'
   - 'qa.md'
   - 'howtofix.md'

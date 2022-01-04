@@ -9,9 +9,15 @@
 * `/skip` - คำสั่งข้ามเพลง
 * `/leave` - เลิกใช้งานบอท
 
+## คู่มือเริ่มใช้งานบอทแบบคนเพิ่งใช้ดิส
+
+!!! info "รายชื่อคู่มือเริ่มต้น"
+    * [เอาบอทหลายบาทเข้าดิส](/start)
+    * [เริ่มเล่นเพลงครั้งแรกจากบอทหลายบาท](/play)
+
 ## ลิงก์ชวนบอทหลายบาททั้งหมด
 
-* [Manybaht (ตัวหลัก)](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+[Manybaht (ตัวหลัก)](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
 
 ## วิธีอ่านคู่มือ
 
