@@ -9,11 +9,17 @@
     `/play music:<ลิงก์เพลง>` ทำการเล่นเพลง
 
 !!! example "ตัวอย่างการใช้งาน"
+    * `/play music:หลายบาท` (หากอยากให้เล่นเปะ แปะลิงก์จะดีที่สุด เนื่องจากเล่นใช้การค้นหา บอทจะค้นหาจาก Youtube Music)
     * `/play music:https://youtu.be/pqBp2uIrKHI`
     * `/play music:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
     * `/play music:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
     * `/play music:https://open.spotify.com/artist/1IRkXpCwl8IdD5EMClezbo`
     * `/play music:https://open.spotify.com/album/4cS21mg8pR9uf6WVV1N2A4`
+    * `/play music:https://www.tiktok.com/@manybaht/video/7023359868937587969`
+    * `/play music:https://www.p_____b.com/view_video.php?viewkey=ไอดีวิดีโอ` (ต้อง .com เท่านั้น ห้าม .org)
+    * `/play music:https://www.twitch.tv/laibaht`
+    * `/play music:https://www.bilibili.tv/en/video/ไอดีวิดีโอ`
+    * `/play music:speak:หลายบาทน่ารักมาก`
 
 ## /skip
 
