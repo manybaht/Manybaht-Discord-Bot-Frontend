@@ -9,7 +9,7 @@
     `/play music:<ลิงก์เพลง>` ทำการเล่นเพลง
 
 !!! example "ตัวอย่างการใช้งาน"
-    * `/play music:หลายบาท` (หากอยากให้เล่นเปะ แปะลิงก์จะดีที่สุด เนื่องจากเล่นใช้การค้นหา บอทจะค้นหาจาก Youtube Music)
+    * `/play music:หลายบาท` (หากอยากให้เล่นเป๊ะ แปะลิงก์จะดีที่สุด เนื่องจากเล่นใช้การค้นหา บอทจะค้นหาจาก Youtube Music)
     * `/play music:https://youtu.be/pqBp2uIrKHI`
     * `/play music:https://youtube.com/playlist?list=PLb1F5JEwvOv4zEQaeix2QsGgszSxWljx-`
     * `/play music:https://open.spotify.com/track/3CMX2HunKRoyAUZp6paH3n?si=e9228d8a52ca49e3`
