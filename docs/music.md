@@ -19,7 +19,6 @@
     * `/play music:https://www.p_____b.com/view_video.php?viewkey=ไอดีวิดีโอ` (ต้อง .com เท่านั้น ห้าม .org)
     * `/play music:https://www.twitch.tv/laibaht`
     * `/play music:https://www.bilibili.tv/en/video/ไอดีวิดีโอ`
-    * `/play music:speak:หลายบาทน่ารักมาก`
 
 ## /skip
 
