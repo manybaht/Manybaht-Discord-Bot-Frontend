@@ -22,7 +22,7 @@
 
 !!! info "ผ่านลิงก์บนเว็บ"
     หลังกดต้องทำการเข้าบัญชีดิสบนเว็บก่อน
-    [ลิงก์ชวนบอทหลายบาท](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+    [ลิงก์ชวนบอทหลายบาท](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands)
 
 <figure markdown> 
     ![Image title](https://cdn.jsdelivr.net/gh/manybaht/manybaht.github.io@main/storages/images/botdoc/start3.gif){ loading=lazy }

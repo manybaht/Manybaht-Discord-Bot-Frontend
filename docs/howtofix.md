@@ -1,7 +1,7 @@
 # วิธีแก้ปัญหา
 
 !!! tip "วิธีแก้ปัญหาเร็วที่สุด"
-    ทำการชวนบอทใหม่ด้วย [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands) และอย่าติ๊กเอาอำนาจที่จะให้บอทออก
+    ทำการชวนบอทใหม่ด้วย [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands) และอย่าติ๊กเอาอำนาจที่จะให้บอทออก
 
 ## "บอทต้องมีอำนาจในการปิดหูฟังคนอื่น"
 

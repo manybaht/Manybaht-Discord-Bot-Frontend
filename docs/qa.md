@@ -3,12 +3,12 @@
 ## ทำไมใช้งาน "/" ไม่ได้
 
 !!! check "บอทยังไม่มีอำนาจสร้าง '/' ในดิส"
-    กรุณาชวนบอทใหม่ด้วย [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+    กรุณาชวนบอทใหม่ด้วย [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands)
 
 ## ทำไมบอทขึ้นว่า <เหตุผล> แล้วไม่ยอมเข้าห้องเสียง
 
 !!! check "บอทไม่มีอำนาจในดิสที่ต้องการ"
-    ง่ายสุดคือชวนบอทใหม่ [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+    ง่ายสุดคือชวนบอทใหม่ [ลิงก์นี้](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands)
 
 !!! info "หรืออำนาจที่บอทใช้"
     * `เห็นห้องเสียง`

@@ -2,7 +2,7 @@
 
 ## เริ่มต้นใช้งานบอทหลายบาทแบบง่ายและเร็ว
 
-* ทำการชวนบอทหลายบาทเข้าดิส [ลิงก์ชวนบอท](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+* ทำการชวนบอทหลายบาทเข้าดิส [ลิงก์ชวนบอท](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands)
 * เข้าห้องเสียง
 * `/help` - คำสั่งทั้งหมด
 * `/play` - คำสั่งเล่นเพลง
@@ -17,7 +17,7 @@
 
 ## ลิงก์ชวนบอทหลายบาททั้งหมด
 
-[Manybaht (ตัวหลัก)](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=2184301960&scope=bot%20applications.commands)
+[Manybaht (ตัวหลัก)](https://discord.com/oauth2/authorize?client_id=483104273761304577&permissions=11534344&scope=bot%20applications.commands)
 
 ## วิธีอ่านคู่มือ
 
