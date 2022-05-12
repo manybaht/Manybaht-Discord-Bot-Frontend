@@ -22,7 +22,8 @@ nav:
   - 'music.md'
   - 'qa.md'
   - 'howtofix.md'
-  - 'สถานะบอท': 'https://manybaht.statuspage.io/'
+  - 'สถานะบอท': 'https://bot.manybahtpage.com/stats'
+  - 'สถานะเซิร์ฟ': 'https://status.manybahtpage.com/'
 extra:
   generator: false
   social:
